@@ -68,6 +68,35 @@ namespace jkc {
      */
     using uintptr = std::uintptr_t;
 
+    /**
+     * Single precision floating point type.
+     */
+    using float32 = float;
+
+
+    /**
+     * Double precision floating point type.
+     */
+    using float64 = double;
+
+
+    /**
+     * The most precise floating-point type.
+     */
+    using full_precision = double;
+
+
+    /**
+     * Precision used if no precision is explicitly specified.
+     */
+    using default_precision = double;
+
+
+    /**
+     * Number of bits in a byte
+     */
+    constexpr size_type byte_size = CHAR_BIT;
+
 
 } // namespace jkc
 

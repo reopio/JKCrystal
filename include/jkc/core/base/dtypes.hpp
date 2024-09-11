@@ -10,6 +10,8 @@
 #include <complex>
 #include <type_traits>
 
+#include "../extended/extend_flops.hpp"
+
 namespace jkc {
 
     /**

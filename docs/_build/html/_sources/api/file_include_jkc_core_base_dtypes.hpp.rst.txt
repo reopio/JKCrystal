@@ -9,6 +9,11 @@ File dtypes.hpp
 .. |exhale_lsh| unicode:: U+021B0 .. UPWARDS ARROW WITH TIP LEFTWARDS
 
 
+
+This is the head file defining float types. 
+
+
+
 .. contents:: Contents
    :local:
    :backlinks: none
@@ -21,6 +26,16 @@ Definition (``include/jkc/core/base/dtypes.hpp``)
    :maxdepth: 1
 
    program_listing_file_include_jkc_core_base_dtypes.hpp.rst
+
+
+
+Detailed Description
+--------------------
+
+gejifeng 
+
+22024/9/10 
+
 
 
 

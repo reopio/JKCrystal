@@ -15,7 +15,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="20" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="20" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="28" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="28" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="dtypes_8hpp_1a65686d769de80a8c0b5695711d0de7fa" prot="public" static="no">
         <type>std::int8_t</type>
@@ -29,7 +29,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="25" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="25" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="33" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="33" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="dtypes_8hpp_1a13ad0264628639b2b287257da83cfa4b" prot="public" static="no">
         <type>std::int16_t</type>
@@ -43,7 +43,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="30" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="30" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="38" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="38" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="dtypes_8hpp_1a6cc5987524504efbf9e61a27d784b263" prot="public" static="no">
         <type>std::int32_t</type>
@@ -57,7 +57,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="36" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="36" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="44" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="44" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="dtypes_8hpp_1a2da1961060e0e1832bfe65fbe17b45b6" prot="public" static="no">
         <type>std::int64_t</type>
@@ -71,7 +71,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="42" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="42" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="50" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="50" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="dtypes_8hpp_1a4a5cf238930500b2afb5ff9953d8120d" prot="public" static="no">
         <type>std::uint8_t</type>
@@ -85,7 +85,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="48" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="48" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="56" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="56" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="dtypes_8hpp_1a9ae66184ae2a9c1bb9f239d0ab461ba3" prot="public" static="no">
         <type>std::uint16_t</type>
@@ -99,7 +99,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="53" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="53" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="61" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="61" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="dtypes_8hpp_1a46b0f63ae7dafb66aa63f5aea2ca5f04" prot="public" static="no">
         <type>std::uint32_t</type>
@@ -113,7 +113,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="59" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="59" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="67" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="67" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="dtypes_8hpp_1a59cddb52918c19dfb82078003fb3902b" prot="public" static="no">
         <type>std::uint64_t</type>
@@ -127,7 +127,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="65" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="65" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="73" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="73" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="dtypes_8hpp_1a2216597273f0e503cd9c9ee0851a4fb6" prot="public" static="no">
         <type>std::uintptr_t</type>
@@ -140,7 +140,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="71" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="71" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="79" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="79" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="dtypes_8hpp_1aef272ae3fd7ac17df6bfd638efce6aed" prot="public" static="no">
         <type>float</type>
@@ -154,7 +154,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="76" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="76" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="84" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="84" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="dtypes_8hpp_1a2cbd8016e53d9972250e003cf97a6935" prot="public" static="no">
         <type>double</type>
@@ -168,7 +168,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="82" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="82" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="90" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="90" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="dtypes_8hpp_1ab922da6f662870b47c2da2252c42db6a" prot="public" static="no">
         <type>double</type>
@@ -182,7 +182,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="88" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="88" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="96" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="96" bodyend="-1"/>
       </memberdef>
       <memberdef kind="typedef" id="dtypes_8hpp_1aa14e84b2e36d4fe5d77f9e6afe45fe2b" prot="public" static="no">
         <type>double</type>
@@ -196,12 +196,12 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="94" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="94" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="102" column="5" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="102" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="var">
       <memberdef kind="variable" id="dtypes_8hpp_1a53815fa2344a08bdd2a82770c13ada0f" prot="public" static="no" constexpr="yes" mutable="no">
-        <type>constexpr size_type</type>
+        <type>constexpr <ref refid="dtypes_8hpp_1ae20ec5f92eee6aa5cd16d650edb53c26" kindref="member">size_type</ref></type>
         <definition>constexpr size_type jkc::byte_size</definition>
         <argsstring></argsstring>
         <name>byte_size</name>
@@ -213,13 +213,13 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/jkc/core/base/dtypes.hpp" line="100" column="25" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="100" bodyend="-1"/>
+        <location file="include/jkc/core/base/dtypes.hpp" line="108" column="25" bodyfile="include/jkc/core/base/dtypes.hpp" bodystart="108" bodyend="-1"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="include/jkc/core/base/dtypes.hpp" line="15" column="1"/>
+    <location file="include/jkc/core/base/dtypes.hpp" line="23" column="1"/>
   </compounddef>
 </doxygen>

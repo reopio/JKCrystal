@@ -6,7 +6,7 @@
     <invincdepgraph>
       <node id="2">
         <label>include/jkc/core/base/dtypes.hpp</label>
-        <link refid="dtypes_8hpp_source"/>
+        <link refid="dtypes_8hpp"/>
       </node>
       <node id="1">
         <label>include/jkc/core/extended/extend_flops.hpp</label>
@@ -16,16 +16,23 @@
       </node>
     </invincdepgraph>
     <briefdescription>
+<para>This is the head file defining extended float types(refined for future development) </para>
     </briefdescription>
     <detaileddescription>
+<para><simplesect kind="author"><para>gejifeng </para>
+</simplesect>
+<simplesect kind="date"><para>2024/9/10 </para>
+</simplesect>
+</para>
     </detaileddescription>
     <programlisting>
-<codeline lineno="1"><highlight class="preprocessor">#ifndef<sp/>JKC_CORE_EXTENDED_EXTENDED_FLOPS_</highlight><highlight class="normal"></highlight></codeline>
-<codeline lineno="2"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>JKC_CORE_EXTENDED_EXTENDED_FLOPS_</highlight><highlight class="normal"></highlight></codeline>
-<codeline lineno="3"><highlight class="normal"></highlight></codeline>
-<codeline lineno="4"><highlight class="normal"></highlight></codeline>
-<codeline lineno="5"><highlight class="normal"></highlight></codeline>
-<codeline lineno="6"><highlight class="normal"></highlight><highlight class="preprocessor">#enfif</highlight></codeline>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="9"><highlight class="normal"></highlight><highlight class="preprocessor">#ifndef<sp/>JKC_CORE_EXTENDED_EXTENDED_FLOPS_</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>JKC_CORE_EXTENDED_EXTENDED_FLOPS_</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="preprocessor">#endif</highlight></codeline>
     </programlisting>
     <location file="include/jkc/core/extended/extend_flops.hpp"/>
   </compounddef>

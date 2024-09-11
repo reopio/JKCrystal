@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="dir_157a7ce1112e74fd963974b1afe7e660" kind="dir">
+    <compoundname>include/jkc</compoundname>
+    <innerdir refid="dir_fc85e29e55515b39fad6a1a8fde01688">include/jkc/core</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="include/jkc/"/>
+  </compounddef>
+</doxygen>

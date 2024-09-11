@@ -1,0 +1,17 @@
+.. JKCrystal documentation master file, created by
+   sphinx-quickstart on Wed Sep 11 08:04:18 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+JKCrystal documentation
+=======================
+
+documentation of JKCrystal
+
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Contents:
+
+   api/library_root
+

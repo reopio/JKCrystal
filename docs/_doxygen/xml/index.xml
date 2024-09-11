@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.9.1" xml:lang="en-US">
+  <compound refid="namespacejkc" kind="namespace"><name>jkc</name>
+    <member refid="dtypes_8hpp_1ae20ec5f92eee6aa5cd16d650edb53c26" kind="typedef"><name>size_type</name></member>
+    <member refid="dtypes_8hpp_1a65686d769de80a8c0b5695711d0de7fa" kind="typedef"><name>int8</name></member>
+    <member refid="dtypes_8hpp_1a13ad0264628639b2b287257da83cfa4b" kind="typedef"><name>int16</name></member>
+    <member refid="dtypes_8hpp_1a6cc5987524504efbf9e61a27d784b263" kind="typedef"><name>int32</name></member>
+    <member refid="dtypes_8hpp_1a2da1961060e0e1832bfe65fbe17b45b6" kind="typedef"><name>int64</name></member>
+    <member refid="dtypes_8hpp_1a4a5cf238930500b2afb5ff9953d8120d" kind="typedef"><name>uint8</name></member>
+    <member refid="dtypes_8hpp_1a9ae66184ae2a9c1bb9f239d0ab461ba3" kind="typedef"><name>uint16</name></member>
+    <member refid="dtypes_8hpp_1a46b0f63ae7dafb66aa63f5aea2ca5f04" kind="typedef"><name>uint32</name></member>
+    <member refid="dtypes_8hpp_1a59cddb52918c19dfb82078003fb3902b" kind="typedef"><name>uint64</name></member>
+    <member refid="dtypes_8hpp_1a2216597273f0e503cd9c9ee0851a4fb6" kind="typedef"><name>uintptr</name></member>
+    <member refid="dtypes_8hpp_1aef272ae3fd7ac17df6bfd638efce6aed" kind="typedef"><name>float32</name></member>
+    <member refid="dtypes_8hpp_1a2cbd8016e53d9972250e003cf97a6935" kind="typedef"><name>float64</name></member>
+    <member refid="dtypes_8hpp_1ab922da6f662870b47c2da2252c42db6a" kind="typedef"><name>full_precision</name></member>
+    <member refid="dtypes_8hpp_1aa14e84b2e36d4fe5d77f9e6afe45fe2b" kind="typedef"><name>default_precision</name></member>
+    <member refid="dtypes_8hpp_1a53815fa2344a08bdd2a82770c13ada0f" kind="variable"><name>byte_size</name></member>
+  </compound>
+  <compound refid="dtypes_8hpp" kind="file"><name>dtypes.hpp</name>
+  </compound>
+  <compound refid="extend__flops_8hpp" kind="file"><name>extend_flops.hpp</name>
+  </compound>
+  <compound refid="dir_5653cd8655dc39d2ff44abb1ad3c30e1" kind="dir"><name>include/jkc/core/base</name>
+  </compound>
+  <compound refid="dir_fc85e29e55515b39fad6a1a8fde01688" kind="dir"><name>include/jkc/core</name>
+  </compound>
+  <compound refid="dir_6e6be5a018224f963af144362cae76f0" kind="dir"><name>include/jkc/core/extended</name>
+  </compound>
+  <compound refid="dir_d44c64559bbebec7f509842c48db8b23" kind="dir"><name>include</name>
+  </compound>
+  <compound refid="dir_157a7ce1112e74fd963974b1afe7e660" kind="dir"><name>include/jkc</name>
+  </compound>
+</doxygenindex>

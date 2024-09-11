@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="dir_6e6be5a018224f963af144362cae76f0" kind="dir">
+    <compoundname>include/jkc/core/extended</compoundname>
+    <innerfile refid="extend__flops_8hpp">extend_flops.hpp</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="include/jkc/core/extended/"/>
+  </compounddef>
+</doxygen>

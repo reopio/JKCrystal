@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="extend__flops_8hpp" kind="file" language="C++">
+    <compoundname>extend_flops.hpp</compoundname>
+    <includedby refid="dtypes_8hpp" local="yes">include/jkc/core/base/dtypes.hpp</includedby>
+    <invincdepgraph>
+      <node id="2">
+        <label>include/jkc/core/base/dtypes.hpp</label>
+        <link refid="dtypes_8hpp_source"/>
+      </node>
+      <node id="1">
+        <label>include/jkc/core/extended/extend_flops.hpp</label>
+        <link refid="extend__flops_8hpp"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+      </node>
+    </invincdepgraph>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="preprocessor">#ifndef<sp/>JKC_CORE_EXTENDED_EXTENDED_FLOPS_</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>JKC_CORE_EXTENDED_EXTENDED_FLOPS_</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="preprocessor">#enfif</highlight></codeline>
+    </programlisting>
+    <location file="include/jkc/core/extended/extend_flops.hpp"/>
+  </compounddef>
+</doxygen>

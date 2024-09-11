@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="dir_5653cd8655dc39d2ff44abb1ad3c30e1" kind="dir">
+    <compoundname>include/jkc/core/base</compoundname>
+    <innerfile refid="dtypes_8hpp">dtypes.hpp</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="include/jkc/core/base/"/>
+  </compounddef>
+</doxygen>

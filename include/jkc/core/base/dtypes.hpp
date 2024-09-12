@@ -1,3 +1,11 @@
+/**
+*@file   dtypes.hpp
+*@brief  This is the head file defining float types
+*@author gejifeng
+*@date   22024/9/10
+*/
+
+
 #ifndef JKC_CORE_BASE_DTYPES_HPP_
 #define JKC_CORE_BASE_DTYPES_HPP_
 

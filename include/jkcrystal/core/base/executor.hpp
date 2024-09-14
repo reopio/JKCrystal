@@ -1,7 +1,20 @@
+/**
+*@file   executor.hpp
+*@brief  This file contains the definition of the Executor class and the Operation class.
+*        The Executor class is an abstract class that defines the interface for all executors.
+*        We define three executors: ReferenceExecutor, OmpExecutor, and CudaExecutor.
+*        They are used to run operations on the reference, OpenMP, and CUDA devices, respectively.
+*@author gejifeng
+*@date   2024/9
+*/
+
+
+
 #ifndef JKC_CORE_BASE_EXECUTOR_HPP_
 #define JKC_CORE_BASE_EXECUTOR_HPP_
 
 #include <jkcrystal/core/base/dtypes.hpp>
+#include <jkcrystal/core/base/jkcexception.hpp>
 
 #include <memory>
 

@@ -10,7 +10,9 @@
 #define JKC_JKCRYSTAL_HPP_
 
 #include <jkcrystal/core/base/dtypes.hpp>
-
+#include <jkcrystal/core/base/jkcexception.hpp>
+#include <jkcrystal/core/base/executor.hpp>
+#include <jkcrystal/core/base/linop.hpp>
 
 
 #endif

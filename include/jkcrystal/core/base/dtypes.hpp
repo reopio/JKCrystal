@@ -2,7 +2,7 @@
 *@file   dtypes.hpp
 *@brief  This is the head file defining float types
 *@author gejifeng
-*@date   2024/9/10
+*@date   2024/9
 */
 
 
@@ -106,6 +106,9 @@ namespace jkc {
      * Number of bits in a byte
      */
     constexpr size_type byte_size = CHAR_BIT;
+
+
+    // end of data types declaration
 
 
     #define JKC_ENABLE_FOR_ALL_EXECUTORS(_enable_macro) \

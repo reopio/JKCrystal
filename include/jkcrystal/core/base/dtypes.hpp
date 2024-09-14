@@ -2,7 +2,7 @@
 *@file   dtypes.hpp
 *@brief  This is the head file defining float types
 *@author gejifeng
-*@date   22024/9/10
+*@date   2024/9/10
 */
 
 
@@ -18,18 +18,18 @@
 #include <complex>
 #include <type_traits>
 
-#include "../extended/extend_flops.hpp"
+#include <jkcrystal/core/extended/extend_floats.hpp>
 
 namespace jkc {
 
     /**
-    * Integral type used for allocation quantities.
-    */
+     * Integral type used for allocation quantities.
+     */
     using size_type = std::size_t;
 
     /**
-    * 8-bit signed integral type.
-    */
+     * 8-bit signed integral type.
+     */
     using int8 = std::int8_t;
 
     /**

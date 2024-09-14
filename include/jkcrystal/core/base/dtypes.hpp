@@ -108,6 +108,11 @@ namespace jkc {
     constexpr size_type byte_size = CHAR_BIT;
 
 
+    #define JKC_ENABLE_FOR_ALL_EXECUTORS(_enable_macro) \
+    _enable_macro(OmpExecutor, omp);                \
+    _enable_macro(CudaExecutor, cuda)
+
+
 } // namespace jkc
 
 #endif // JKC_CORE_BASE_DTYPES_HPP_

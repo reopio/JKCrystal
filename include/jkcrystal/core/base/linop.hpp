@@ -5,13 +5,12 @@
 *@date   2024/9/12
 */
 
-#ifndef JKC_LINOP_HPP_
-#define JKC_LINOP_HPP_
+#ifndef JKC_CORE_BASE_LINOP_HPP_
+#define JKC_CORE_BASE_LINOP_HPP_
 
 #include <jkcrystal/core/base/dtypes.hpp>
 
 namespace jkc {
-
 
 
     
